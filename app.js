@@ -10,6 +10,7 @@ const homeStartingContent = "Hello People over the internet! This is a Daily Jou
 
 const aboutContent = "Daily journal is blogging site where you can post your blogs publicly for the world to see. What makes it different from most other blogging sites though, is that apart from posting public blogs you can use it as a personal diary as well. Yes you read it right! All you need to do is select your posts to be private while creating them and voila! You have a personal journal entry! Hope you have a good time on Daily Journal.";
 
+const contact = "Contact me";
 const app = express();
 
 app.set('view engine', 'ejs');
