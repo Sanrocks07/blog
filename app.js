@@ -8,7 +8,7 @@ const _ = require("lodash");
 
 const homeStartingContent = "Hello People over the internet! This is a Daily Journal Blog Web Application. Here, you can write your daily experiences, daily Journals , dialy Blogs. This space lets you express yourself yourway! You can dive deep here in the world of writing where you can write your heart out. This place lets you connect with fellow readers and writers from across the world. So, let your thoughts and ideas go wild here and Happy Writing!";
 
-const aboutContent = "Hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper. Non diam phasellus vestibulum lorem sed. Platea dictumst quisque sagittis purus sit. Egestas sed sed risus pretium quam vulputate dignissim suspendisse. Mauris in aliquam sem fringilla. Semper risus in hendrerit gravida rutrum quisque non tellus orci. Amet massa vitae tortor condimentum lacinia quis vel eros. Enim ut tellus elementum sagittis vitae. Mauris ultrices eros in cursus turpis massa tincidunt dui.";
+const aboutContent = "Daily journal is blogging site where you can post your blogs publicly for the world to see. What makes it different from most other blogging sites though, is that apart from posting public blogs you can use it as a personal diary as well. Yes you read it right! All you need to do is select your posts to be private while creating them and voila! You have a personal journal entry! Hope you have a good time on Daily Journal.";
 
 const app = express();
 
